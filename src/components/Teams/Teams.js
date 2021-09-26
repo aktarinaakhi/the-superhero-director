@@ -7,16 +7,17 @@ const Teams = () => {
     const [persons, setPersons] = useState([])
     const [cart, setCart] = useState([])
 
+    // load data 
     useEffect(() => {
         fetch('./person.JSON')
             .then(res => res.json())
             .then(data => setPersons(data))
     }, [])
 
+    //  handle button 
     const handleAddToCart = person => {
         const newCart = [...cart, person];
         setCart(newCart);
-        // console.log(newCart, cart);
     }
 
     return (

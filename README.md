@@ -12,4 +12,4 @@ Here is link, You can check it out.(https://developers-team.netlify.app/)
 
 ## Note
 
-IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST]
+IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://www.google.com/)

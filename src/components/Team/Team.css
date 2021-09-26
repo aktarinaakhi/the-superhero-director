@@ -1,12 +1,11 @@
 .team-details img {
   width: 150px;
-  /* height: 200px; */
-  /* border-radius: 50px; */
 }
 .team-details {
   background-color: rgba(15, 41, 161, 0.74);
   border-radius: 15px;
 }
+
 .addToCart {
   padding: 7px 10px;
   border-radius: 7px;

@@ -6,6 +6,9 @@ import Teams from './components/Teams/Teams';
 function App() {
   return (
     <div className="App">
+
+      {/* components */}
+      
       <Header></Header>
       <Teams></Teams>
     </div>
