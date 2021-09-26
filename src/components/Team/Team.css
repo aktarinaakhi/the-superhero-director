@@ -3,3 +3,19 @@
   /* height: 200px; */
   /* border-radius: 50px; */
 }
+.team-details {
+  background-color: rgba(15, 41, 161, 0.74);
+  border-radius: 15px;
+}
+.addToCart {
+  padding: 7px 10px;
+  border-radius: 7px;
+  border: 1px solid gray;
+}
+.fas {
+  padding-right: 5px;
+}
+.fab {
+  padding: 10px 10px;
+  font-size: 25px;
+}
