@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Developer Team in BD
+
+Developer team in bd using react.js
+
+Here is live link, You can check it out.
+(https://developers-team.netlify.app/)
+
+##Objective
+
+\*To show developer information
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
